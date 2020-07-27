@@ -279,7 +279,7 @@
 					 <version>${jetty_version}</version>
                 <configuration>
                     <webApp>
-                        <contextPath>/hapi-fhir-jpaserver</contextPath>
+                        <contextPath>/fhir2vrv</contextPath>
                         <allowDuplicateFragmentNames>true</allowDuplicateFragmentNames>
                     </webApp>
                 </configuration>
